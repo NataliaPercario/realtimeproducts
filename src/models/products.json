@@ -1,0 +1,113 @@
+[
+  {
+    "id": 2,
+    "title": "Zapatillas Capitan",
+    "description": "zapatillas para hombre",
+    "price": 40,
+    "thumbnail": "sin imagen",
+    "code": "DEF456",
+    "stock": 5,
+    "status": true,
+    "category": "Nuevos ingresos"
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas Running Puma",
+    "description": "zapatillas unisex",
+    "price": 53.999,
+    "thumbnail": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9ecb667b/products/PU377579-01/PU377579-01-1.JPG?sw=400&sh=400",
+    "code": "ABC124",
+    "stock": 10,
+    "status": true,
+    "category": "Outlet"
+  },
+  {
+    "id": 4,
+    "title": "Zapatillas Skechers Uno",
+    "description": "zapatillas de hombre",
+    "price": 69.999,
+    "thumbnail": "sin imagen",
+    "code": "DEF456",
+    "stock": 5,
+    "status": true,
+    "category": "Nuevos ingresos"
+  },
+  {
+    "id": 5,
+    "title": "Zapatillas Pua X-ray Speed",
+    "description": "zapatillas para niños",
+    "price": 68.999,
+    "thumbnail": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw91932b0a/products/PU386465-33/PU386465-33-1.JPG?sw=400&sh=400",
+    "code": "ABC125",
+    "stock": 10,
+    "status": true,
+    "category": "Nuevos ingresos"
+  },
+  {
+    "id": 6,
+    "title": "Zapatillas Topper Terre",
+    "description": "zapatillas para adultos",
+    "price": 52.699,
+    "thumbnail": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw97f3a70a/products/TO_59573/TO_59573-1.JPG?sw=400&sh=400",
+    "code": "DEF457",
+    "stock": 5,
+    "status": true,
+    "category": "Oferta"
+  },
+  {
+    "id": 7,
+    "title": "Zapatillas Nike Waffle Debut",
+    "description": "zapatillas para mujer",
+    "price": 104.999,
+    "thumbnail": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf1e47b5e/products/NIDH9523-603/NIDH9523-603-1.JPG?sw=400&sh=400",
+    "code": "ABC126",
+    "stock": 10,
+    "status": true,
+    "category": "Nuevos ingresos"
+  },
+  {
+    "id": 8,
+    "title": "Zapatillas Nike Court Vision Low",
+    "description": "zapatillas unisex",
+    "price": 55.999,
+    "thumbnail": "sin imagen",
+    "code": "DEF458",
+    "stock": 2,
+    "status": true,
+    "category": "Outlet"
+  },
+  {
+    "id": 9,
+    "title": "Zapatillas Topper Costa II",
+    "description": "zapatillas para niños",
+    "price": 45.699,
+    "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf6c07d7c/products/ADGW6511/ADGW6511-1.JPG",
+    "code": "ABC128",
+    "stock": 3,
+    "status": true,
+    "category": "Oferta"
+  },
+  {
+    "id": 10,
+    "title": "Zapatillas Puma Trinity",
+    "description": "zapatillas para mujer",
+    "price": 71.999,
+    "thumbnail": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw391b95ff/products/PU392410-17/PU392410-17-1.JPG?sw=400&sh=400",
+    "code": "DEF459",
+    "stock": 8,
+    "status": true,
+    "category": "Nuevos ingresos"
+  },
+  {
+    "title": "zapas",
+    "description": "de prueba",
+    "price": "15",
+    "img": "Sin Imagen",
+    "code": "55555",
+    "stock": "1",
+    "category": "oferta",
+    "status": true,
+    "thumbnails": [],
+    "id": 11
+  }
+]
